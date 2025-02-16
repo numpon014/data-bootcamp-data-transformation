@@ -1,3 +1,16 @@
+# dplyr - data manipulation
+# dplyr is a package for data manipulation in R.
+# It makes data manipulation easier and faster.
+# It is a part of the tidyverse package.
+
+# dplyr provides a set of verbs that help to solve the most common data manipulation challenges.
+# 1. select: to select columns
+# 2. filter: to filter rows
+# 3. arrange: to sort datas
+# 4. mutate: to create new columns or modify existing columns
+# 5. summarise: to summarise data or aggregate data
+# 6. group_by: to group data
+
 library(dplyr) # for data manipulation
 library(glue) # for string interpolation - template
 

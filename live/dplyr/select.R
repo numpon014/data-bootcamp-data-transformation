@@ -1,5 +1,6 @@
 # dplyr
-# select, filter, arrange, mutate, summarise, group_by, distinct, slice
+# select: to select columns
+# filter: to filter rows
 
 library(dplyr) # for data manipulation
 library(tibble) # for data transformation
