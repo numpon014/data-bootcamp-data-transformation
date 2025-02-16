@@ -1,4 +1,4 @@
-library(readr)
+library(dplyr)
 
 # Read the CSV file
 imdb <- read.csv("data/imdb.csv", stringsAsFactors = FALSE)
